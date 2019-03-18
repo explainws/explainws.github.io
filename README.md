@@ -11,6 +11,7 @@ The EXPLAIN workshop will bring together researchers from various sub-discipline
 Specifically, the workshop seeks contributions related but not limited to the following list of topics: 
 - explainable AI
 - explaining algorithms and/or their decisions
+- Creating a chaing of evidence
 - quality assurance of learning and adaptive models and algorithms 
 - partial and live evaluation of source code
 - explaining impact of algorithms on users and their behavior
