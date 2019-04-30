@@ -35,7 +35,7 @@ We welcome 4 page research, experience report and position papers. Research pape
 
 All papers need to follow the general [formatting guidelines and policies](https://2019.ase-conferences.org/track/ase-2019-How-to-Submit). Submissions not conforming to these will be desk-rejected.
 
-The submission of the paper will be possible in [EasyChair](https://www.easychair.org/conferences/?conf=explain2019).
+The submission of the paper is via [EasyChair](https://www.easychair.org/conferences/?conf=explain2019).
 
 ### Organisers
 - Stefan Wagner, University of Stuttgart, Germany
