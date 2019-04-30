@@ -41,7 +41,7 @@ The submission of the paper will be possible in EasyChair: https://www.easychair
 - Stefan Wagner, University of Stuttgart, Germany
 - Barbara Paech, University of Heidelberg, Germany
 - Jens Weber, University of Victoria, Canada
-- Jan-Philipp Steghöfer, Chalmers | University of Gothenburg, Sweden
+- Jan-Philipp Steghöfer, Chalmers and University of Gothenburg, Sweden
 - Matthias Tichy, Ulm University, Germany
 
 ### Programme Committee
