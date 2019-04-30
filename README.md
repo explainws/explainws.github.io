@@ -33,9 +33,9 @@ This will be the first edition of the EXPLAIN workshop. The workshop will focus 
 
 We welcome 4 page research, experience report and position papers. Research papers are expected to describe new research results and  make  contributions  to  the  body  of knowledge  in  the  area. Experience reports are expected to describe experiences with (amongst  other  things)  providing,  creating,  and  using  explanations  in  the  development,  deployment,  and  maintenance  of software. Position papers are expected to discuss controversial issues or describe interesting or thought provoking ideas thatare  not  yet  fully  developed. 
 
-All papers need to follow the general formatting guidelines and policies ([https://2019.ase-conferences.org/track/ase-2019-How-to-Submit]). Submissions not conforming to these will be desk-rejected.
+All papers need to follow the general [formatting guidelines and policies](https://2019.ase-conferences.org/track/ase-2019-How-to-Submit). Submissions not conforming to these will be desk-rejected.
 
-The submission of the paper will be possible in EasyChair: [https://www.easychair.org/conferences/?conf=explain2019]
+The submission of the paper will be possible in [EasyChair](https://www.easychair.org/conferences/?conf=explain2019).
 
 ### Organisers
 - Stefan Wagner, University of Stuttgart, Germany
