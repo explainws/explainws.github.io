@@ -45,4 +45,11 @@ The submission of the paper is via [EasyChair](https://www.easychair.org/confere
 - Matthias Tichy, Ulm University, Germany
 
 ### Programme Committee
-TBA
+- Thomas	Vogel,	Humboldt University Berlin, Germany
+- Michael	Felderer,	University of Innsbruck, Austria
+- Aditya	Ghose,	University of Wollongong, Australia
+- Walid	Maalej,	University of Hamburg, Germany
+- Antonio	Filieri,	Imperial College London, UK
+- Neil	Ernst,	University of Victoria, Canada
+- Andreas	Vogelsang, TU Berlin, Germany
+- Helena	Holmström Olsson,	University of Malmo, Sweden
