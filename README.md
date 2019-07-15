@@ -25,8 +25,8 @@ This will be the first edition of the EXPLAIN workshop. The workshop will focus 
 
 ### Important Dates
 
-- Submission of papers:	Monday 15 July
-- Paper notification:	Monday 12 August 12
+- Submission of papers:	<del>Monday 15 July</del> Monday 29 July
+- Paper notification:	<del>Monday 12 August</del> Monday 26 August
 - Camera-ready paper: Monday 16 September 16 (strict)
 
 ### What and where to submit
